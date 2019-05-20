@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/mrembas0190/oregon0519/_apis/build/status/aisog.ContosoAir?branchName=master)](https://dev.azure.com/mrembas0190/oregon0519/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
